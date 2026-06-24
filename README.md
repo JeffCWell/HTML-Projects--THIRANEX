@@ -13,8 +13,8 @@ Task management application with local storage support.
 ### 3. Weather Dashboard
 Weather information application using APIs.
 
-### 4. Landing Page
-Modern responsive landing page design.
+### 4. E-Commerce Platform
+Modern responsive E-Commerce Platform
 
 ## Technologies Used
 - HTML5
